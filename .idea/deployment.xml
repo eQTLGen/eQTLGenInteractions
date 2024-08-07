@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gearshiftIeqtls" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="gearshiftIeqtls">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/groups/umcg-fg/tmp01/projects/eqtlgen-phase2/interactions/ieQTL_nextflow_pipeline" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
