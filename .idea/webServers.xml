@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="444d8af7-8a46-4769-9a59-0e4c1c6d6642" name="gearshiftIeqtls">
+        <fileTransfer accessType="SFTP" host="gearshift" port="22" sshConfigId="a2914b96-fa49-437a-a28e-ded4b9d935d1" sshConfig="umcg-pdeelen@gearshift:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

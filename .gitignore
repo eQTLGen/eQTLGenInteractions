@@ -1,0 +1,5 @@
+work/
+.nextflow*
+*.simg
+*.sif
+.results/
